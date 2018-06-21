@@ -7,4 +7,4 @@ img: post-3.jpg # Add image post (optional)
 tags: []
 author: # Add name author (optional)
 ---
-<p align="center"> # Hello </p>
+<p align="center"><b><i>How often did your team scrum?</i></b> </p>
