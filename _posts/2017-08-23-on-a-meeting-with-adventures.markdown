@@ -8,3 +8,4 @@ tags: []
 author: # Add name author (optional)
 ---
 <p align="center"><span style="font-size:30px"><b><i>How often did your team scrum?</i></b></span></p>
+<p> I would say often enough. Face to face communication among the team members was very good as we had a scrum mostly twice a week in every Software Engineering class and sometimes, even on thursdays if we felt the need.</p>
