@@ -28,3 +28,5 @@ author: # Add name author (optional)
 ![Adam Blog - Imac](https://github.com/SinhaUddeshya/sinhauddeshya.github.io/blob/master/assets/img/ev3.PNG?raw=true)<br><br><br>
 ![Adam Blog - Imac](https://github.com/SinhaUddeshya/sinhauddeshya.github.io/blob/master/assets/img/ev13.PNG?raw=true)<br><br><br>
 ![Adam Blog - Imac](https://github.com/SinhaUddeshya/sinhauddeshya.github.io/blob/master/assets/img/ev29.PNG?raw=true)<br><br><br>
+<p align="center"><span style="font-size:30px"><b><i>What if you couldn't complete your work and how did it reflected your team strategy?</i></b></span></p>
+<p> We followed the sprint cycle for most of the work but sometimes I wasn't able to maybe attend a group meeting or finish the work assigned to me because of pressure from my other courses. I was very upfront about this with my teammates and tried to arrange a meeting with my team to discuss about this issue and what could be done. As mentioned in one of the Agile principles - that we need to reflect and tune accordingly and hence a group discussion about this was the best option.
