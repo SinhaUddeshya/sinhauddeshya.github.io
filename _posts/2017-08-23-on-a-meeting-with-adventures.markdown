@@ -7,4 +7,4 @@ img: post-3.jpg # Add image post (optional)
 tags: []
 author: # Add name author (optional)
 ---
-<p align="center"><span style="font-size:50px"><b><i>How often did your team scrum?</i></b></span></p>
+<p align="center"><span style="font-size:30px"><b><i>How often did your team scrum?</i></b></span></p>
