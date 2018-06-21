@@ -17,9 +17,9 @@ author: # Add name author (optional)
 <p align="center"><span style="font-size:30px"><b><i>How well was your communication with the team?</i></b></span></p>
 <p> We used slack for most of the team communication in addition to the face to face meetings. I think my communication with other team members was good but it could have been more better. To be honest, I wasn't very frequent in updating my team on slack but I attended almost all of the group scrums and discussed my problems there. 
 </p>
-![Adam Blog - Imac](https://github.com/SinhaUddeshya/sinhauddeshya.github.io/blob/master/assets/img/evi1.PNG?raw=true)
+![Adam Blog - Imac](https://github.com/SinhaUddeshya/sinhauddeshya.github.io/blob/master/assets/img/evi1.PNG?raw=true)<br><br>
 ![Adam Blog - Imac](https://github.com/SinhaUddeshya/sinhauddeshya.github.io/blob/master/assets/img/ev1.PNG?raw=true)<br><br><br>
-![Adam Blog - Imac](https://github.com/SinhaUddeshya/sinhauddeshya.github.io/blob/master/assets/img/ev3.PNG?raw=true)<br>
-![Adam Blog - Imac](https://github.com/SinhaUddeshya/sinhauddeshya.github.io/blob/master/assets/img/ev4.PNG?raw=true)<br>
-![Adam Blog - Imac](https://github.com/SinhaUddeshya/sinhauddeshya.github.io/blob/master/assets/img/ev20.PNG?raw=true)<br>
+![Adam Blog - Imac](https://github.com/SinhaUddeshya/sinhauddeshya.github.io/blob/master/assets/img/ev3.PNG?raw=true)<br><br><br>
+![Adam Blog - Imac](https://github.com/SinhaUddeshya/sinhauddeshya.github.io/blob/master/assets/img/ev4.PNG?raw=true)<br><br><br>
+![Adam Blog - Imac](https://github.com/SinhaUddeshya/sinhauddeshya.github.io/blob/master/assets/img/ev20.PNG?raw=true)<br><br><br>
 ![Adam Blog - Imac](https://github.com/SinhaUddeshya/sinhauddeshya.github.io/blob/master/assets/img/ev21.PNG?raw=true)<br>
