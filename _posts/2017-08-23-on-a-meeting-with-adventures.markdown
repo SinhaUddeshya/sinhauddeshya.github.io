@@ -14,3 +14,6 @@ author: # Add name author (optional)
 ![Adam Blog - Imac](https://github.com/SinhaUddeshya/sinhauddeshya.github.io/blob/master/assets/img/ev9.PNG?raw=true)
 ![Adam Blog - Imac](https://github.com/SinhaUddeshya/sinhauddeshya.github.io/blob/master/assets/img/ev10.PNG?raw=true)
 ![Adam Blog - Imac](https://github.com/SinhaUddeshya/sinhauddeshya.github.io/blob/master/assets/img/ev19.PNG?raw=true)
+<p align="center"><span style="font-size:30px"><b><i>How well was your communication with the team?</i></b></span></p>
+<p> We used slack for most of the team communication in addition to the face to face meetings. I think my communication with other team members was good but it could have been more better. To be honest, I wasn't very frequent in updating my team on slack but I attended almost all of the group scrums and discussed my problems there. 
+</p>
