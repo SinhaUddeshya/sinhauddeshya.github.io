@@ -20,7 +20,13 @@ I decided to start the NodeJS Essential Training from Lynda because it wasn't ve
 
 ![Adam Blog - Imac](https://github.com/SinhaUddeshya/sinhauddeshya.github.io/blob/master/assets/img/ev16.PNG?raw=true)<br><br><br>
 ![Adam Blog - Imac](https://github.com/SinhaUddeshya/sinhauddeshya.github.io/blob/master/assets/img/jade.PNG?raw=true)<br><br><br>
-<p align="center"><span style="font-size:25px"><b>The Approach</b></span></p>
+<p align="center"><span style="font-size:25px"><b>Working on Stories</b></span></p>
+After receiving a list of priority tasks from our client, we divided up the work by choosing two tasks each. We setup a sprint for two weeks which meant that we were supposed to finish our stories within the two week time frame. I chose a story from Phase 1 and the other one from Phase 2. My Phase 1 story was pretty staright forward as I had to implement an option of deleting ingredients from the settings page because the user may not want it anymore and there was no need to have a restore ingredient option since adding a new ingredient again was very simple.<br><br>
+![Adam Blog - Imac](https://github.com/SinhaUddeshya/sinhauddeshya.github.io/blob/master/assets/img/story1.PNG?raw=true)<br><br><br>
+![Adam Blog - Imac](https://github.com/SinhaUddeshya/sinhauddeshya.github.io/blob/master/assets/img/story2.PNG?raw=true)<br><br><br>
+
+
+
 
 
 
