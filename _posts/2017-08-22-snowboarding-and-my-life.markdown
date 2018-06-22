@@ -42,6 +42,7 @@ My next task was to make sure that the web app was secure against SQL injection 
 ![Adam Blog - Imac](https://github.com/SinhaUddeshya/sinhauddeshya.github.io/blob/master/assets/img/ev27.PNG?raw=true)<br><br><br>
 ![Adam Blog - Imac](https://github.com/SinhaUddeshya/sinhauddeshya.github.io/blob/master/assets/img/ev31.PNG?raw=true)<br><br><br>
 ![Adam Blog - Imac](https://github.com/SinhaUddeshya/sinhauddeshya.github.io/blob/master/assets/img/ev32.PNG?raw=true)<br><br><br>
+<p align="center"><span style="font-size:25px"><b>Code Improvement</b></span></p><br><br>
 
 
 
