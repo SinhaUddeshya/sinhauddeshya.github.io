@@ -43,7 +43,7 @@ My next task was to make sure that the web app was secure against SQL injection 
 ![Adam Blog - Imac](https://github.com/SinhaUddeshya/sinhauddeshya.github.io/blob/master/assets/img/ev31.PNG?raw=true)<br><br><br>
 ![Adam Blog - Imac](https://github.com/SinhaUddeshya/sinhauddeshya.github.io/blob/master/assets/img/ev32.PNG?raw=true)<br><br><br>
 <p align="center"><span style="font-size:25px"><b>Code Improvement</b></span></p><br><br>
-
+I used a bunch of online tools for improving the quality of code. Since, when I started to work on Meals on Wheels, I found it very difficult to understand the code because there was no formatting at all. Honestly, I don't really care much about formatting and indentation but formatting does make the code look much cleaner and simpler to understand. For formatting the JS code I used an online HTML formatter and for ensuring the best practices for code implementation, I used JSLint. I also discovered there is absolutely no tool for formatting PugJS code.<br><br><br> 
 
 
 
