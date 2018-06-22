@@ -7,4 +7,3 @@ img: post-1.jpg # Add image post (optional)
 tags: []
 author: Adam Neilson # Add name author (optional)
 ---
-Week by week, shouldn't be very long
