@@ -8,6 +8,12 @@ tags: []
 author: Adam Neilson # Add name author (optional)
 ---
 <p align="center"><span style="font-size:20px"><b>Week 1</b></span></p>
+1) Introduced to the project and team members
+2) Meeting with Adon to know more about the project
+3) Learned about the bugs.
+4) Codebase handed to us by Adon
+5) Gitlab and slack channel setup
+6) Decided to start learning NodeJS and PugJS 
 <p align="center"><span style="font-size:20px"><b>Week 2</b></span></p>
 <p align="center"><span style="font-size:20px"><b>Week 3</b></span></p>
 <p align="center"><span style="font-size:20px"><b>Week 4</b></span></p>
