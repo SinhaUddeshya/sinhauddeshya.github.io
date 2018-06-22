@@ -23,8 +23,10 @@ I decided to start the NodeJS Essential Training from Lynda because it wasn't ve
 <p align="center"><span style="font-size:25px"><b>Working on Stories</b></span></p>
 After receiving a list of priority tasks from our client, we divided up the work by choosing two tasks each. We setup a sprint for two weeks which meant that we were supposed to finish our stories within the two week time frame. I chose a story from Phase 1 and the other one from Phase 2. My Phase 1 story was pretty staright forward as I had to implement an option of deleting ingredients from the settings page because the user may not want it anymore and there was no need to have a restore ingredient option since adding a new ingredient again was very simple.<br><br>
 ![Adam Blog - Imac](https://github.com/SinhaUddeshya/sinhauddeshya.github.io/blob/master/assets/img/story1.PNG?raw=true)<br><br><br>
-![Adam Blog - Imac](https://github.com/SinhaUddeshya/sinhauddeshya.github.io/blob/master/assets/img/story2.PNG?raw=true)<br><br><br>
-
+![Adam Blog - Imac](https://github.com/SinhaUddeshya/sinhauddeshya.github.io/blob/master/assets/img/story2.PNG?raw=true)<br><br>
+Having an option of editing and deleting customers and drivers visually from the website and also an option to restore them back if needed was my Phase 2 story. This story was important because there was no need to populate the customer and driver list by people who were no longer active customers or drivers. I figured that this story was a bit tricky since it needed to have database manipulation so that the deleted customers are still in the database but just being removed from the site visually. I basically made use of the status field in the database for each customer or driver in the database. When a customer/driver is deleted, it is given a status code of 0 and I defined a query to show the list of deleted customers/drivers when prompted to restore using the restore button. The restore button is only visible when the administrator deletes someone. When the restore icon is tapped on, it changes the status of that customer/driver back to 1 again and the customer/driver is restored again.<br><br>
+![Adam Blog - Imac](https://github.com/SinhaUddeshya/sinhauddeshya.github.io/blob/master/assets/img/story3.PNG?raw=true)<br><br><br>
+![Adam Blog - Imac](https://github.com/SinhaUddeshya/sinhauddeshya.github.io/blob/master/assets/img/story4.PNG?raw=true)<br><br><br>
 
 
 
