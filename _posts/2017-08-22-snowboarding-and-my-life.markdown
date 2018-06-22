@@ -19,6 +19,7 @@ I decided to start the NodeJS Essential Training from Lynda because it wasn't ve
 
 
 ![Adam Blog - Imac](https://github.com/SinhaUddeshya/sinhauddeshya.github.io/blob/master/assets/img/ev16.PNG?raw=true)<br><br><br>
+![Adam Blog - Imac](https://github.com/SinhaUddeshya/sinhauddeshya.github.io/blob/master/assets/img/jade.PNG?raw=true)<br><br><br>
 <p align="center"><span style="font-size:25px"><b>The Approach</b></span></p>
 
 
