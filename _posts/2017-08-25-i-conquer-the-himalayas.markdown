@@ -14,15 +14,15 @@ author: Adam Neilson # Add name author (optional)
 4) Codebase handed to us by Adon<br>
 5) Gitlab and slack channel setup<br>
 6) Decided to start learning NodeJS and PugJS<br> 
-<p align="center"><span style="font-size:20px"><b>Week 2</b></span></p>
-<p align="center"><span style="font-size:20px"><b>Week 3</b></span></p>
-<p align="center"><span style="font-size:20px"><b>Week 4</b></span></p>
-<p align="center"><span style="font-size:20px"><b>Week 5</b></span></p>
-<p align="center"><span style="font-size:20px"><b>Week 6</b></span></p>
-<p align="center"><span style="font-size:20px"><b>Week 7</b></span></p>
-<p align="center"><span style="font-size:20px"><b>Week 8</b></span></p>
-<p align="center"><span style="font-size:20px"><b>Week 9</b></span></p>
-<p align="center"><span style="font-size:20px"><b>Week 10</b></span></p>
-<p align="center"><span style="font-size:20px"><b>Week 11</b></span></p>
-<p align="center"><span style="font-size:20px"><b>Week 12</b></span></p>
-<p align="center"><span style="font-size:20px"><b>Week 13</b></span></p>
+<p align="left"><span style="font-size:20px"><b>Week 2</b></span></p>
+<p align="left"><span style="font-size:20px"><b>Week 3</b></span></p>
+<p align="left"><span style="font-size:20px"><b>Week 4</b></span></p>
+<p align="left"><span style="font-size:20px"><b>Week 5</b></span></p>
+<p align="left"><span style="font-size:20px"><b>Week 6</b></span></p>
+<p align="left"><span style="font-size:20px"><b>Week 7</b></span></p>
+<p align="left"><span style="font-size:20px"><b>Week 8</b></span></p>
+<p align="left"><span style="font-size:20px"><b>Week 9</b></span></p>
+<p align="left"><span style="font-size:20px"><b>Week 10</b></span></p>
+<p align="left"><span style="font-size:20px"><b>Week 11</b></span></p>
+<p align="left"><span style="font-size:20px"><b>Week 12</b></span></p>
+<p align="left"><span style="font-size:20px"><b>Week 13</b></span></p>
