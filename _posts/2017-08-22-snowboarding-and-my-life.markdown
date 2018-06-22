@@ -32,8 +32,7 @@ I learned many things
 ![Adam Blog - Imac](https://github.com/SinhaUddeshya/sinhauddeshya.github.io/blob/master/assets/img/story4.PNG?raw=true)<br><br><br>
 <p align="center"><span style="font-size:25px"><b>Pair Programming</b></span></p>
 I did some pair programming with Leighton on my user story. Prior to this, I always felt pair programming could cause conflict between the two programmers as they have different skill level and different ways to approach a problem. But me and Leighton had kind of the same approach towards programming which was to try a bunch of different stuff initially and observe the results. In case any error occured, use google and sites like stack overflow to get more ideas about the problem. In this way, try a bunch of different solutions learned from google and then check if it solves the problem. We never got it right the first time but that is the point I think. Mostly the reason that the code didn't work initially was that if we created a new file, it was absent from app.js. In this way, I think both of us enhanced our problem-solving skill and we did learn so much about each other's programming pattern. I learned pair programming could save a lot of time when tackling a problem as it did for us. Whenever I hit a dead end, Leighton examined the problem and vice-versa<br><br>
-
-
+![Adam Blog - Imac](https://github.com/SinhaUddeshya/sinhauddeshya.github.io/blob/master/assets/img/ev11.PNG?raw=true)<br><br><br>
 
 
 
